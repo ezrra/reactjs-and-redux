@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import { connect } form 'react-redux';
+import { connect } from 'react-redux';
 import {increment, decrement} from '../actions/counter';
 import {Button, FormControl} from 'react-bootstrap';
 

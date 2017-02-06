@@ -1,4 +1,4 @@
-import * as types from '../actions/actionsTypes';
+import * as types from '../actions/actionTypes';
 
 const initialState = {
   count: 0
