@@ -5,7 +5,7 @@
 npm install -g create-react-app
 ```
 
-## Depedencies
+## Dependencies
 ```
 npm install --save redux react-redux redux-logger react-bootstrap
 ```
